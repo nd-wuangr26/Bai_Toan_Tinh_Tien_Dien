@@ -104,6 +104,8 @@ namespace lib_TinhTienDien
 # Web sau khi được sử dụng DLL #
 ```p
 
-![image](https://github.com/user-attachments/assets/269930e6-b42e-4329-8d7e-9015f60aac3c)
+
+![image](https://github.com/user-attachments/assets/80261570-88b0-4185-ad5b-6de683613971)
+
 
 ```
